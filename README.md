@@ -40,9 +40,6 @@ A modern, responsive ERP (Enterprise Resource Planning) dashboard web applicatio
 ├── index.js
 └── ...
 
-yaml
-Copy
-Edit
 
 ---
 
